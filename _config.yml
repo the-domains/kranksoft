@@ -6,9 +6,9 @@ color:
   saturation: 0.3025862507056445
   rhythmicContrast: 0.6321820123121142
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#008000'
+    - '#00C100'
+    - '#63BD63'
+    - '#EBEBEB'
 name: Kranksoft
